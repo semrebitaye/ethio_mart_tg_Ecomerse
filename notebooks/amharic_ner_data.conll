@@ -1,0 +1,17 @@
+ዋጋ	B-PRICE
+1000	I-PRICE
+ብር	I-PRICE
+በአዲስ	O
+አበባ	B-LOC
+ቦሌ	I-LOC
+ቀላል	I-LOC
+
+አዲስ	B-LOC
+አበባ	I-LOC
+ሳምንታ	B-Product
+ምግብ	I-Product
+ቤት	O
+በቅድሚያ	B-PRICE
+ዋጋ	I-PRICE
+500	I-PRICE
+
